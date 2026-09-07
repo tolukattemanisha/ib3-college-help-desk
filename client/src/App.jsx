@@ -22,6 +22,7 @@ export default function App() {
 
       {/* Floating chat button — visible on all pages */}
       <FloatingChatButton />
+      <h1>done setting with CI/CD pipeline</h1>
     </>
   );
 }
